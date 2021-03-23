@@ -1,5 +1,5 @@
-# Formating days and times
+# Formating days and times utility
 
-My learning application in which I created an utility that transforms day and time to pre-established format.
+Utility that transforms day and time to pre-established format.
 
-Used technologies and tools: HTML/CSS/JS, WebStorm, Moment.js (library for manipulation of dates and times)
+Used technologies and tools: HTML/CSS/JS, WebStorm, Moment.js (library for manipulation of dates and times).
